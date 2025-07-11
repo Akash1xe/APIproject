@@ -6,10 +6,7 @@ const mongoose = require('mongoose'); // Importing mongoose to interact with Mon
 const connectDB = (uri)=>{ // Function to connect to the database
     console.log('oh yeah backend is connected to database'); // Log message indicating connection attempt
     
-    return mongoose.connect(uri, {
-        useNewUrlParser: true, // Use the new URL parser
-        useUnifiedTopology: true // Use the new topology engine
-    })
+    return mongoose.connect(uri)
 }
 
 module.exports = connectDB;

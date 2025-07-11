@@ -7,6 +7,11 @@ const connectDB = require('./db/connect'); // this is the database connection fi
 
 const port = process.env.PORT || 5000; // this is the port on which the server will run
 
+// Debug environment variables
+console.log('Environment check:');
+console.log('PORT:', process.env.PORT);
+console.log('MONGODB_URL defined:', !!process.env.MONGODB_URL);
+
 const product_routes = require('./routes/product'); // this is the product routes file
 
 app.get('/', (req, res) => { // this is the root route
@@ -17,13 +22,19 @@ app.use('/api/products', product_routes); // this is where we use the product ro
 
 const start = async () => {
     try {
+        // Check if MONGODB_URL is defined
+        if (!process.env.MONGODB_URL) {
+            throw new Error('MONGODB_URL environment variable is not defined. Please set it in Railway or your .env file.');
+        }
+        
         await connectDB(process.env.MONGODB_URL); // this connects to the database using the connectDB function from db/connect.js
         app.listen(port, () => { // this is where the server starts listening on the specified port
             console.log(`Server is running on port ${port}`); // this logs the port on which the server is running
         });
         
     } catch (error) {
-        console.error('Error starting server:', error);
+        console.error('Error starting server:', error.message);
+        process.exit(1); // Exit the process if connection fails
     }
 }
 
