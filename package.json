@@ -5,7 +5,8 @@
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
-    "build": "echo 'No build step required'",
+    "build": "npm install --omit=dev",
+    "install:prod": "npm install --omit=dev",
     "postinstall": "echo 'Dependencies installed successfully'"
   },
   "keywords": ["api", "express", "mongodb", "rest"],
