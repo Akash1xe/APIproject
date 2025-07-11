@@ -1,0 +1,504 @@
+
+
+[  
+    {
+        "name": "Apple iPhone 14 Pro Max",
+        "price": 1099.99,
+        "featured": true,
+        "company": "Apple",
+        "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=500"
+    },
+    {
+        "name": "Apple iPhone 13",
+        "price": 899.99,
+        "featured": true,
+        "company": "Apple",
+        "image": "https://images.unsplash.com/photo-1632661674596-df8be070a5c5?w=500"
+    },
+    {
+        "name": "Apple iPhone 12 Mini",
+        "price": 699.99,
+        "company": "Apple",
+        "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=500"
+    },
+    {
+        "name": "Apple MacBook Pro 16",
+        "price": 2399.99,
+        "featured": true,
+        "company": "Apple",
+        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500"
+    },
+    {
+        "name": "Apple MacBook Air M2",
+        "price": 1199.99,
+        "company": "Apple",
+        "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=500"
+    },
+    {
+        "name": "Apple iPad Pro 12.9",
+        "price": 1099.99,
+        "company": "Apple",
+        "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500"
+    },
+    {
+        "name": "Apple iPad Air",
+        "price": 599.99,
+        "company": "Apple",
+        "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=500"
+    },
+    {
+        "name": "Apple AirPods Pro",
+        "price": 249.99,
+        "featured": true,
+        "company": "Apple",
+        "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=500"
+    },
+    {
+        "name": "Apple AirPods Max",
+        "price": 549.99,
+        "company": "Apple",
+        "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500"
+    },
+    {
+        "name": "Apple Watch Series 8",
+        "price": 399.99,
+        "featured": true,
+        "company": "Apple",
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500"
+    },
+    {
+        "name": "Apple Mac Studio",
+        "price": 1999.99,
+        "company": "Apple",
+        "image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=500"
+    },
+    {
+        "name": "Apple Studio Display",
+        "price": 1599.99,
+        "company": "Apple",
+        "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500"
+    },
+    {
+        "name": "Apple Magic Keyboard",
+        "price": 179.99,
+        "company": "Apple",
+        "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500"
+    },
+    {
+        "name": "Apple Magic Mouse",
+        "price": 79.99,
+        "company": "Apple",
+        "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500"
+    },
+    {
+        "name": "Samsung Galaxy S23 Ultra",
+        "price": 1199.99,
+        "featured": true,
+        "company": "Samsung",
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500"
+    },
+    {
+        "name": "Samsung Galaxy S21",
+        "price": 799.99,
+        "featured": true,
+        "company": "Samsung",
+        "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=500"
+    },
+    {
+        "name": "Samsung Galaxy Z Fold 4",
+        "price": 1799.99,
+        "featured": true,
+        "company": "Samsung",
+        "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=500"
+    },
+    {
+        "name": "Samsung Galaxy Z Flip 4",
+        "price": 999.99,
+        "company": "Samsung",
+        "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=500"
+    },
+    {
+        "name": "Samsung Galaxy Tab S8",
+        "price": 699.99,
+        "company": "Samsung",
+        "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=500"
+    },
+    {
+        "name": "Samsung Galaxy Watch 5",
+        "price": 279.99,
+        "company": "Samsung",
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500"
+    },
+    {
+        "name": "Samsung Galaxy Buds Pro",
+        "price": 199.99,
+        "company": "Samsung",
+        "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500"
+    },
+    {
+        "name": "Samsung 55 QLED 4K TV",
+        "price": 1299.99,
+        "featured": true,
+        "company": "Samsung",
+        "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500"
+    },
+    {
+        "name": "Samsung Frame TV 65",
+        "price": 1999.99,
+        "company": "Samsung",
+        "image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=500"
+    },
+    {
+        "name": "Samsung Smart Refrigerator",
+        "price": 2499.99,
+        "company": "Samsung",
+        "image": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=500"
+    },
+    {
+        "name": "Samsung Washer Dryer Combo",
+        "price": 1199.99,
+        "company": "Samsung",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500"
+    },
+    {
+        "name": "Samsung Soundbar Q990B",
+        "price": 899.99,
+        "company": "Samsung",
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500"
+    },
+    {
+        "name": "Dell XPS 13",
+        "price": 1299.99,
+        "featured": true,
+        "company": "Dell",
+        "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500"
+    },
+    {
+        "name": "Dell XPS 15",
+        "price": 1799.99,
+        "company": "Dell",
+        "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=500"
+    },
+    {
+        "name": "Dell Inspiron 15",
+        "price": 899.99,
+        "company": "Dell",
+        "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=500"
+    },
+    {
+        "name": "Dell Alienware Gaming Laptop",
+        "price": 2499.99,
+        "featured": true,
+        "company": "Dell",
+        "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=500"
+    },
+    {
+        "name": "Dell Precision Workstation",
+        "price": 3499.99,
+        "company": "Dell",
+        "image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=500"
+    },
+    {
+        "name": "Dell UltraSharp Monitor 27",
+        "price": 449.99,
+        "company": "Dell",
+        "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500"
+    },
+    {
+        "name": "Dell Gaming Monitor 32",
+        "price": 699.99,
+        "company": "Dell",
+        "image": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=500"
+    },
+    {
+        "name": "Dell Wireless Mouse",
+        "price": 49.99,
+        "company": "Dell",
+        "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500"
+    },
+    {
+        "name": "Dell Mechanical Keyboard",
+        "price": 129.99,
+        "company": "Dell",
+        "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500"
+    },
+    {
+        "name": "Dell Webcam 4K",
+        "price": 199.99,
+        "company": "Dell",
+        "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=500"
+    },
+    {
+        "name": "Xiaomi Mi 13 Pro",
+        "price": 899.99,
+        "featured": true,
+        "company": "Xiaomi",
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500"
+    },
+    {
+        "name": "Xiaomi Mi 11",
+        "price": 749.99,
+        "company": "Xiaomi",
+        "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=500"
+    },
+    {
+        "name": "Xiaomi RedMi Note 12",
+        "price": 399.99,
+        "company": "Xiaomi",
+        "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=500"
+    },
+    {
+        "name": "Xiaomi Mi Band 7",
+        "price": 59.99,
+        "company": "Xiaomi",
+        "image": "https://images.unsplash.com/photo-1557438159-51eec7a6c9e8?w=500"
+    },
+    {
+        "name": "Xiaomi Mi Laptop Pro",
+        "price": 1099.99,
+        "company": "Xiaomi",
+        "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500"
+    },
+    {
+        "name": "Xiaomi Robot Vacuum",
+        "price": 299.99,
+        "featured": true,
+        "company": "Xiaomi",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500"
+    },
+    {
+        "name": "Xiaomi Smart Scale",
+        "price": 39.99,
+        "company": "Xiaomi",
+        "image": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=500"
+    },
+    {
+        "name": "Xiaomi Security Camera",
+        "price": 89.99,
+        "company": "Xiaomi",
+        "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=500"
+    },
+    {
+        "name": "Xiaomi Power Bank 20000mAh",
+        "price": 49.99,
+        "company": "Xiaomi",
+        "image": "https://images.unsplash.com/photo-1609592709969-0c2c8e7f8e5c?w=500"
+    },
+    {
+        "name": "Xiaomi Bluetooth Speaker",
+        "price": 79.99,
+        "company": "Xiaomi",
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500"
+    },
+    {
+        "name": "Xiaomi Smart Light Bulb",
+        "price": 19.99,
+        "company": "Xiaomi",
+        "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+    },
+    {
+        "name": "Xiaomi Gaming Chair",
+        "price": 299.99,
+        "company": "Xiaomi",
+        "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=500"
+    },
+    {
+        "name": "Sony WH-1000XM4",
+        "price": 349.99,
+        "featured": true,
+        "company": "Sony",
+        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500"
+    },
+    {
+        "name": "Sony WH-1000XM5",
+        "price": 399.99,
+        "featured": true,
+        "company": "Sony",
+        "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500"
+    },
+    {
+        "name": "Sony PlayStation 5",
+        "price": 499.99,
+        "featured": true,
+        "company": "Sony",
+        "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=500"
+    },
+    {
+        "name": "Sony PlayStation 5 Digital",
+        "price": 399.99,
+        "company": "Sony",
+        "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=500"
+    },
+    {
+        "name": "Sony DualSense Controller",
+        "price": 69.99,
+        "company": "Sony",
+        "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=500"
+    },
+    {
+        "name": "Sony Alpha A7 III Camera",
+        "price": 1999.99,
+        "company": "Sony",
+        "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500"
+    },
+    {
+        "name": "Sony Alpha A7R V",
+        "price": 3899.99,
+        "featured": true,
+        "company": "Sony",
+        "image": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=500"
+    },
+    {
+        "name": "Sony FX30 Cinema Camera",
+        "price": 1799.99,
+        "company": "Sony",
+        "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500"
+    },
+    {
+        "name": "Sony 85mm f/1.4 Lens",
+        "price": 1799.99,
+        "company": "Sony",
+        "image": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=500"
+    },
+    {
+        "name": "Sony Xperia 1 IV",
+        "price": 1299.99,
+        "company": "Sony",
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500"
+    },
+    {
+        "name": "Sony WF-1000XM4 Earbuds",
+        "price": 279.99,
+        "company": "Sony",
+        "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500"
+    },
+    {
+        "name": "Sony Bravia 75 OLED TV",
+        "price": 2999.99,
+        "featured": true,
+        "company": "Sony",
+        "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500"
+    },
+    {
+        "name": "Sony Soundbar HT-A7000",
+        "price": 1299.99,
+        "company": "Sony",
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500"
+    },
+    {
+        "name": "Sony Bluetooth Speaker XB43",
+        "price": 249.99,
+        "company": "Sony",
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500"
+    },
+    {
+        "name": "Mi Gaming Monitor 27",
+        "price": 299.99,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500"
+    },
+    {
+        "name": "Mi Gaming Monitor 34 Curved",
+        "price": 499.99,
+        "featured": true,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=500"
+    },
+    {
+        "name": "Mi Air Purifier 3H",
+        "price": 179.99,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500"
+    },
+    {
+        "name": "Mi Air Purifier Pro",
+        "price": 299.99,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500"
+    },
+    {
+        "name": "Mi Electric Scooter Pro 2",
+        "price": 599.99,
+        "featured": true,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=500"
+    },
+    {
+        "name": "Mi Electric Scooter Essential",
+        "price": 399.99,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=500"
+    },
+    {
+        "name": "Mi Smart TV 55 4K",
+        "price": 449.99,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500"
+    },
+    {
+        "name": "Mi Smart TV 75 4K",
+        "price": 899.99,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500"
+    },
+    {
+        "name": "Mi Smart Doorbell",
+        "price": 89.99,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=500"
+    },
+    {
+        "name": "Mi Smart Humidifier",
+        "price": 59.99,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500"
+    },
+    {
+        "name": "Mi Induction Cooktop",
+        "price": 129.99,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500"
+    },
+    {
+        "name": "Mi Rice Cooker",
+        "price": 89.99,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500"
+    },
+    {
+        "name": "Mi Electric Kettle",
+        "price": 39.99,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500"
+    },
+    {
+        "name": "Mi Desk Lamp Pro",
+        "price": 79.99,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+    },
+    {
+        "name": "Mi Standing Desk",
+        "price": 399.99,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=500"
+    },
+    {
+        "name": "Mi Ergonomic Chair",
+        "price": 199.99,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=500"
+    },
+    {
+        "name": "Mi Wireless Charging Pad",
+        "price": 29.99,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1609592709969-0c2c8e7f8e5c?w=500"
+    },
+    {
+        "name": "Mi USB-C Hub",
+        "price": 49.99,
+        "company": "Mi",
+        "image": "https://images.unsplash.com/photo-1609592709969-0c2c8e7f8e5c?w=500"
+    }
+]
